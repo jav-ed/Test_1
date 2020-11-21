@@ -9,3 +9,5 @@ The revert file gets context
 6
 9
 10
+
+Custom Message -Stash
